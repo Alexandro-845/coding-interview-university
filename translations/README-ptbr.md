@@ -73,9 +73,9 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 - [Conhecimento Prévio](#conhecimento-prévio)
 - [Complexidade Algorítmica / Big-O / Análise assintótica](#complexidade-algorítmica--big-o--análise-assintótica)
 - [Estrutura de Dados](#estrutura-de-dados)
-    - [Arrays](#arrays)
+    - [Arrays (Vetores)](#arrays)
     - [Listas Ligadas](#listas-ligadas)
-    - [Stack](#stack)
+    - [Stack (Pilha)](#stack)
     - [Queue (Fila)](#queue-fila)
     - [Tabela hash](#tabela-hash)
 - [Mais Conhecimento](#mais-conhecimento)
@@ -94,11 +94,11 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
     - quicksort
     - ordenação por mistura (merge sort)
 - [Grafos](#grafos)
-    - directed
-    - undirected
-    - matriz de adjacência
-    - lista de adjacência
-    - traversals: BFS, DFS
+    - Diretos
+    - Indirestos
+    - Matriz de Adjacência
+    - Lista de Adjacência
+    - Traversals: BFS, DFS
 - [Ainda Mais Conhecimento](#ainda-mais-conhecimento)
     - [Recursão](#recursão)
     - [Programação Dinâmica](#programação-dinâmica)
@@ -113,7 +113,7 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
     - [Agendamento](#agendamento)
     - [Implementar rotinas de sistema](#implementar-rotinas-de-sistema)
     - [Busca de string e manipulações](#busca-de-string-e-manipulações)
-    - [Tries (ou Árvore de Prefixos)](#tries-ou-Árvore-de-prefixos)
+    - [Árvore de Prefixos (Tries)](#tries-ou-Árvore-de-prefixos)
     - [Números de Ponto Flutuantes ("Floating Point Numbers")](#números-de-ponto-flutuantes-floating-point-numbers)
     - [Unicode](#unicode)
     - [Extremidade (ordenação) (ou "endianness" em Inglês)](#extremidade-ordenação-ou-endianness-em-inglês)
